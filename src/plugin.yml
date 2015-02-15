@@ -1,0 +1,9 @@
+name: PluginPortfollio
+version: 1.0
+description: A portfollio for jpresent.
+main: me.Cooper.Portfollio.Main
+commands:
+  online:
+    description: Show you online players!
+  specialblocks:
+   description: Shows you the special blocks menu!
